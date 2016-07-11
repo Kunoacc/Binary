@@ -1,0 +1,40 @@
+.android-logo-image{
+  height: 150px;
+  width: 300px;
+  border-radius: 40%;
+  padding-top: 30px;
+}
+.android-navigation-container{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+body{
+  background-color: #4A4A4A;
+}
+#trans{
+  background-color: transparent;
+  background-image: url(images/bg.png);
+  background-repeat: no-repeat;
+  background-origin: padding-box;
+  background-position: top center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+#trans .bc{
+  background-color: rgba(0, 0, 0, 0.6);
+  background-repeat: repeat;
+  background-attachment: scroll;
+  background-position: 0% 0%;
+  width: 100%;
+  height: 100%;
+}
+section{
+  display: block;
+  box-sizing: border-box;
+}
+.android-sub-slogan{
+  padding-bottom: 305px;
+}
+.android-slogan{
+  padding-top: 305px;
+}
